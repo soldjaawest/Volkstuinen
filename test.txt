@@ -1,15 +1,19 @@
 inloggen voor deelnamer bestuurder en beheerder werkt.
 persoonsgegevens van users is nog niet beschikbaar.
 uitloggen werkt.
+<<<<<<< Updated upstream
 knoppen in dashboard zijn nog niet functioneel
 formulier aanvraag_parceel word niet goed afgewerkt.
 aanvraag compleet bevestigings mail werkt nog niet.
+=======
+>>>>>>> Stashed changes
 
 beheerder kan niet klikken op de opties kosten en grond
 beheerder krijgt geen persoonlijke gegevens te zien
 beheerder kan wel manoevreren tussen de schermopties
 beheerder kan wel op knoppen klikken en doorgeleid worden
 beheerder krijgt wel te zien dat die op beheerder pagina zit
+<<<<<<< Updated upstream
 beheerder kan correct uitloggen
 beheerder kan nieuwe account registreren en inloggen ermee
 
@@ -31,3 +35,13 @@ Deelnamer kan nieuwe account registreren en inloggen ermee
 
 
 admin loguit werkt niet
+=======
+beheerder kan niet correct uitloggen
+beheerder kan nieuwe account registreren en inloggen ermee
+
+deelnemer kan niet klikken op de opties kosten en grond
+deelnemer kan wel manoevreren tussen de schermopties
+deelnemer kan wel op knoppen klikken en doorgeleid worden
+deelnemer kan niet correct uitloggen
+deelnemer kan nieuwe account registreren en inloggen ermee
+>>>>>>> Stashed changes
